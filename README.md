@@ -1,4 +1,4 @@
-<h1>Hi, I'm Juan, your friendly neighborhood Dev, Content Creator and <a href="https://linkedin.com/in/">IT Professional</a>☺</h1>
+<h1> <a href="https://linkedin.com/in/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
