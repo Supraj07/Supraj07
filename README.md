@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Supraj07/configure-ad)
-  - [Network Integration and Packet Inspection Between Two Virtual Machines in Microsoft Azure]✅(https://github.com/Supraj07/azure-network-protocols)
+  - [Network Integration and Packet Inspection Between Two Virtual Machines in Microsoft Azure](https://github.com/Supraj07/azure-network-protocols)✅
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Supraj07/osticket-prereqs)
