@@ -1,4 +1,4 @@
-<h1> <a href="https://linkedin.com/in/"> I am an Aspiring IT/Cybersecurity Professional</a> <h1>
+<h1> <a href="https://linkedin.com/in/"> I am an Aspiring IT/Cybersecurity Professional</a> </h1>
 
  Welcome to my GitHub page!
 My name is Juan, and I’m excited to begin this new chapter in my life. I’ve recently transitioned into the tech space after working in a variety of roles, including car sales, the cleaning industry, the insurance industry, and even the trailer business industry. Through all those experiences, one thing I’ve learned is that what’s meant to be will always find its way—so here I am.
@@ -17,6 +17,10 @@ Now, the idea of diving into configurations, setting up networks, or uncovering 
   - [osTicket: Prerequisites and Installation](https://github.com/Supraj07/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Supraj07/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Supraj07/ticket-lifecycle)
+
+<h2>👨‍💻 Freelance/ Youtube Projects:</h2>
+
+- [Fun Marketing Video for Chamoy Dreams Recorded and Edited by me](https://www.youtube.com/watch?v=KwXZeABQICA)
 
 <h2>🤳Connect with me:</h2>
 
